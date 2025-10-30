@@ -1,3 +1,8 @@
+---
+title: "Hello World"
+author: "Kristijan Bobanovic"
+date: "30.10.2025."
+---
 # Hello-world
 Moj prvi github repozitorij
 
